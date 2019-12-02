@@ -35,13 +35,16 @@ defaults:
 
 # Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
+  16:   '/assets/logos/logo@16px.png'
+  32:   '/assets/logos/logo@32px.png'
+  48:   '/assets/logos/logo@48px.png'
+  64:   '/assets/logos/logo@64px.png'
+  96:   '/assets/logos/logo@96px.png'
+  120:  '/assets/logos/logo@120px.png'
+  144:  '/assets/logos/logo@144px.png'
+  180:  '/assets/logos/logo@180px.png'
+  256:  '/assets/logos/logo@256px.png'
+  512:  '/assets/logos/logo@512px.png'
   1024: '/assets/logos/logo@1024px.png'
 
   # Pagination
