@@ -5,11 +5,42 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
-   viewBox="0 0 22.110638 19.625857"
-   height="55.632351pt"
-   width="62.675816pt">
+   viewBox="0 0 22.110637 22.110634"
+   height="62.675812pt"
+   width="62.675812pt"
+   sodipodi:docname="andreatta-ziliotto-abbrev.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/pjfasano/Projects/andreatta-ziliotto/assets/images/andreatta-ziliotto-abbrev.png"
+   inkscape:export-xdpi="588.16998"
+   inkscape:export-ydpi="588.16998">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2873"
+     inkscape:window-height="1663"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="3.181602"
+     inkscape:cx="41.783876"
+     inkscape:cy="37.088231"
+     inkscape:window-x="0"
+     inkscape:window-y="56"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2" />
   <title
      id="title823">Andreatta Ziliotto Logo</title>
   <defs
@@ -39,7 +70,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-39.294419,-65.829698)"
+     transform="translate(-39.294419,-64.587309)"
      id="layer1">
     <g
        id="g871">

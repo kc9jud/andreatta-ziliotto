@@ -47,7 +47,9 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   512:  '/assets/logos/logo@512px.png'
   1024: '/assets/logos/logo@1024px.png'
 
-  # Pagination
+avatarurl: '/assets/logos/logo.svg'
+
+# Pagination
 paginate: 5
 paginate_path: blog/page:num
 
